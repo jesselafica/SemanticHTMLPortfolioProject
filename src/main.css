@@ -90,8 +90,8 @@ nav ul li {
   padding: 20px;
 }
 nav ul li:hover {
-  background-color: white;
-  opacity: 0.5;
+  background: linear-gradient(white, lightgray);
+  opacity: 1;
 
 }
 h3 {
